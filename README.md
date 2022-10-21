@@ -1,5 +1,3 @@
-# About me
-
 ![It's my photo](me.jpg)
 
 ## 1. Full name:
